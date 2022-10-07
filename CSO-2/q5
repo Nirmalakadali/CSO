@@ -1,0 +1,5 @@
+#!/bin/bash
+var="Hello There"
+ 
+# print it 
+echo "$var"
